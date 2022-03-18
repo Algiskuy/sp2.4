@@ -1,0 +1,11 @@
+body {
+  background-image: url(/foto/d2.webp);
+  background-size: cover;
+  /* background-position: center; */
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px blue;
+  /* text-align: center; */
+  padding-left: 20px;
+}
